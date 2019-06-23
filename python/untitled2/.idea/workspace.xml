@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31ae1375-a8e6-4da0-9665-545c005f7fb3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web_ceshi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding>
+                <element signature="e#43#76#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tim/driver/duanyan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="e#87#91#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tim/config/config_4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liuyan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#42#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="46" column="10" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="10" />
+              <folding>
+                <element signature="e#1100#1133#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tim/config/config_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding>
+                <element signature="e#40#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tim/config/config_5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#42#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tim/test/test_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="e#44#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tim/config/config_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/T.py" />
+        <option value="$USER_HOME$/Desktop/python/day2.py" />
+        <option value="$PROJECT_DIR$/hanwl.py" />
+        <option value="$PROJECT_DIR$/day5.py" />
+        <option value="$PROJECT_DIR$/diesheng.py/data/data_1.txt.py" />
+        <option value="$PROJECT_DIR$/diesheng.py/data/data_1.txt" />
+        <option value="$PROJECT_DIR$/diesheng.py/config/config.py" />
+        <option value="$PROJECT_DIR$/diesheng.py/test/test_1.py" />
+        <option value="$PROJECT_DIR$/diesheng/config/config_2.py" />
+        <option value="$PROJECT_DIR$/diesheng/config/config_3.py" />
+        <option value="$PROJECT_DIR$/diesheng_2/test/test_1.py" />
+        <option value="$PROJECT_DIR$/diesheng/test/test_1.py" />
+        <option value="$PROJECT_DIR$/Tim/data/data_1" />
+        <option value="$PROJECT_DIR$/diesheng/config/config_1.py" />
+        <option value="$PROJECT_DIR$/Tim/config/config_1.py" />
+        <option value="$PROJECT_DIR$/Tim/config/config_3.py" />
+        <option value="$USER_HOME$/Desktop/学习资料/day1.py" />
+        <option value="$PROJECT_DIR$/shouji app.py" />
+        <option value="$PROJECT_DIR$/jiekouceshi.py" />
+        <option value="$PROJECT_DIR$/jiekouceshi/test/dingdan.py" />
+        <option value="$PROJECT_DIR$/dingdna_duqu.py" />
+        <option value="$PROJECT_DIR$/duqu.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/a.txt" />
+        <option value="$PROJECT_DIR$/mian_123.py" />
+        <option value="$PROJECT_DIR$/jiekouceshi/test/peijian_test.py" />
+        <option value="$PROJECT_DIR$/jiekouceshi/config/duqu,py.py" />
+        <option value="$PROJECT_DIR$/jiekouceshi/test/peijian.py" />
+        <option value="$PROJECT_DIR$/jiekouceshi/config/Mduqu.py" />
+        <option value="$PROJECT_DIR$/report.py" />
+        <option value="$PROJECT_DIR$/web。py.py" />
+        <option value="$PROJECT_DIR$/test_1/test/duanyan_test.py" />
+        <option value="$PROJECT_DIR$/test_1/confing/shuju_1py.py" />
+        <option value="$PROJECT_DIR$/dingdan_test.py" />
+        <option value="$PROJECT_DIR$/Tim/config/config_2.py" />
+        <option value="$PROJECT_DIR$/test_1/test/biaozhun.py" />
+        <option value="$PROJECT_DIR$/test_1/confing/baogao.py" />
+        <option value="$PROJECT_DIR$/test_1/test/biaozhun_test.py" />
+        <option value="$PROJECT_DIR$/dingdan.py" />
+        <option value="$PROJECT_DIR$/test_2/test/dianzi_mingxi.py" />
+        <option value="$PROJECT_DIR$/web.py.py" />
+        <option value="$PROJECT_DIR$/web.py" />
+        <option value="$PROJECT_DIR$/Tim/test/test_2.py" />
+        <option value="$PROJECT_DIR$/Tim/config/config_5.py" />
+        <option value="$PROJECT_DIR$/Tim/config/config_4.py" />
+        <option value="$PROJECT_DIR$/Tim/data/data2" />
+        <option value="$PROJECT_DIR$/Tim/test/test_1.py" />
+        <option value="$PROJECT_DIR$/liuyan.py" />
+        <option value="$PROJECT_DIR$/Tim/test/web_test.py" />
+        <option value="$PROJECT_DIR$/web_ceshi.py" />
+        <option value="$PROJECT_DIR$/Tim/driver/duanyan.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="470" />
+    <option name="y" value="97" />
+    <option name="width" value="1346" />
+    <option name="height" value="988" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="Tim" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="Tim" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="Tim" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="Tim" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="Tim" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="Tim" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_1/test/biaozhun_test.py" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in duanyan.py">
+    <configuration name="biaozhun_test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="untitled2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\hanwl\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_1/test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_1/test/biaozhun_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="config_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tim/config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tim/config/config_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="config_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tim/config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tim/config/config_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="liuyan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liuyan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web_ceshi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_ceshi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in duanyan.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="untitled2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tim/driver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tim/driver/duanyan.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.biaozhun_test" />
+      <item itemvalue="Python.web_ceshi" />
+      <item itemvalue="Python.config_4" />
+      <item itemvalue="Python.config_5" />
+      <item itemvalue="Python.liuyan" />
+      <item itemvalue="Python tests.Unittests in duanyan.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in duanyan.py" />
+        <item itemvalue="Python.web_ceshi" />
+        <item itemvalue="Python.liuyan" />
+        <item itemvalue="Python.config_4" />
+        <item itemvalue="Python.config_5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31ae1375-a8e6-4da0-9665-545c005f7fb3" name="Default Changelist" comment="" />
+      <created>1558430132730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558430132730</updated>
+      <workItem from="1558430138659" duration="57489000" />
+      <workItem from="1559122034275" duration="20860000" />
+      <workItem from="1559737064566" duration="7633000" />
+      <workItem from="1559791033455" duration="1709000" />
+      <workItem from="1560146405504" duration="38772000" />
+      <workItem from="1560299509303" duration="23701000" />
+      <workItem from="1560429461837" duration="5942000" />
+      <workItem from="1560651017746" duration="8804000" />
+      <workItem from="1560818108924" duration="2877000" />
+      <workItem from="1560843796474" duration="42000" />
+      <workItem from="1560843864427" duration="11786000" />
+      <workItem from="1560904412268" duration="10091000" />
+      <workItem from="1560916378069" duration="14122000" />
+      <workItem from="1560996460545" duration="67296000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_biaozhun_test_py - 2019.06.19 at 19h 41m 43s.xml">
+      <configuration name="Unittests in biaozhun_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_biaozhun_test_Biao_test_2 - 2019.06.19 at 19h 45m 29s.xml">
+      <configuration name="Unittests for biaozhun_test.Biao.test_2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_biaozhun_test_Biao - 2019.06.19 at 19h 46m 29s.xml">
+      <configuration name="Unittests for biaozhun_test.Biao" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_biaozhun_test_Biao_test_2 - 2019.06.19 at 19h 47m 33s.xml">
+      <configuration name="Unittests for biaozhun_test.Biao.test_2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_biaozhun_test_py - 2019.06.19 at 19h 47m 50s.xml">
+      <configuration name="Unittests in biaozhun_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_biaozhun_test_Biao - 2019.06.20 at 14h 46m 59s.xml">
+      <configuration name="Unittests for biaozhun_test.Biao" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_dingdan_test_py - 2019.06.20 at 15h 24m 00s.xml">
+      <configuration name="Unittests in dingdan_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_duanyan_py - 2019.06.22 at 17h 42m 17s.xml">
+      <configuration name="Unittests in duanyan.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_duanyan_py - 2019.06.22 at 19h 05m 34s.xml">
+      <configuration name="Unittests in duanyan.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_duanyan_py - 2019.06.22 at 19h 11m 07s.xml">
+      <configuration name="Unittests in duanyan.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="271124000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="470" y="97" width="1346" height="988" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15112782" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49849623" visible="true" weight="0.30558723" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947917" weight="0.39607033" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50150377" side_tool="true" weight="0.60181" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1046875" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49849623" visible="true" weight="0.27513227" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947917" weight="0.39939332" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50150377" side_tool="true" weight="0.60181" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled2$Unittests_for_biaozhun_test_Biao.coverage" NAME="Unittests for biaozhun_test.Biao Coverage Results" MODIFIED="1561013216643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_1/test" />
+    <SUITE FILE_PATH="coverage/untitled2$web_ceshi.coverage" NAME="web_ceshi Coverage Results" MODIFIED="1561195575657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$peijian_test.coverage" NAME="peijian_test Coverage Results" MODIFIED="1560915028338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiekouceshi/test" />
+    <SUITE FILE_PATH="coverage/untitled2$Unittests_in_dingdan_test_py.coverage" NAME="Unittests in dingdan_test.py Coverage Results" MODIFIED="1561015439179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$Mduqu.coverage" NAME="Mduqu Coverage Results" MODIFIED="1560916675978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiekouceshi/config" />
+    <SUITE FILE_PATH="coverage/untitled2$config_3.coverage" NAME="config_3 Coverage Results" MODIFIED="1560245035045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diesheng/config" />
+    <SUITE FILE_PATH="coverage/untitled2$dingdna_duqu.coverage" NAME="dingdna_duqu Coverage Results" MODIFIED="1560847311379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$mian_123.coverage" NAME="mian_123 Coverage Results" MODIFIED="1560942731211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$config_1__1_.coverage" NAME="config_1 (1) Coverage Results" MODIFIED="1560310680769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tim/config" />
+    <SUITE FILE_PATH="coverage/untitled2$duqu.coverage" NAME="duqu Coverage Results" MODIFIED="1560916073481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$Unittests_in_duanyan_py.coverage" NAME="Unittests in duanyan.py Coverage Results" MODIFIED="1561201867158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tim/driver" />
+    <SUITE FILE_PATH="coverage/untitled2$liuyan.coverage" NAME="liuyan Coverage Results" MODIFIED="1561195425957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$day5.coverage" NAME="day5 Coverage Results" MODIFIED="1560220699280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$Unittests_for_test_D_dan_test_1.coverage" NAME="Unittests for test.D_dan.test_1 Coverage Results" MODIFIED="1560907376276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$web.coverage" NAME="web Coverage Results" MODIFIED="1561107649471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$config_1.coverage" NAME="config_1 Coverage Results" MODIFIED="1560310625560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diesheng/config" />
+    <SUITE FILE_PATH="coverage/untitled2$shuju_1py.coverage" NAME="shuju_1py Coverage Results" MODIFIED="1560944242026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_1/confing" />
+    <SUITE FILE_PATH="coverage/untitled2$Unittests_for_test_D_dan.coverage" NAME="Unittests for test.D_dan Coverage Results" MODIFIED="1560855594978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$Unittests_for_dingdan_test_D_dan_test_1.coverage" NAME="Unittests for dingdan_test.D_dan.test_1 Coverage Results" MODIFIED="1560910128850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$config_4.coverage" NAME="config_4 Coverage Results" MODIFIED="1561193768157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tim/config" />
+    <SUITE FILE_PATH="coverage/untitled2$Unittests_for_biaozhun_test_Biao_test_2.coverage" NAME="Unittests for biaozhun_test.Biao.test_2 Coverage Results" MODIFIED="1560944853294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_1/test" />
+    <SUITE FILE_PATH="coverage/untitled2$T.coverage" NAME="T Coverage Results" MODIFIED="1559792945699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$shuju_1.coverage" NAME="shuju_1 Coverage Results" MODIFIED="1561019476411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_1/confing" />
+    <SUITE FILE_PATH="coverage/untitled2$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1560907484919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$dianzi_mingxi.coverage" NAME="dianzi_mingxi Coverage Results" MODIFIED="1561031320383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_2/test" />
+    <SUITE FILE_PATH="coverage/untitled2$config.coverage" NAME="config Coverage Results" MODIFIED="1560223195162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diesheng.py/config" />
+    <SUITE FILE_PATH="coverage/untitled2$test_1.coverage" NAME="test_1 Coverage Results" MODIFIED="1560326780983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tim/test" />
+    <SUITE FILE_PATH="coverage/untitled2$day1.coverage" NAME="day1 Coverage Results" MODIFIED="1560653444301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/学习资料" />
+    <SUITE FILE_PATH="coverage/untitled2$config_2.coverage" NAME="config_2 Coverage Results" MODIFIED="1560909372038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tim/config" />
+    <SUITE FILE_PATH="coverage/untitled2$Unittests_for_test_D_dan_test_2.coverage" NAME="Unittests for test.D_dan.test_2 Coverage Results" MODIFIED="1560854301440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$baogao.coverage" NAME="baogao Coverage Results" MODIFIED="1561020721982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_1/confing" />
+    <SUITE FILE_PATH="coverage/untitled2$biaozhun_test.coverage" NAME="biaozhun_test Coverage Results" MODIFIED="1561031055552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_1/test" />
+    <SUITE FILE_PATH="coverage/untitled2$Unittests_in_test_1_py.coverage" NAME="Unittests in test_1.py Coverage Results" MODIFIED="1560238387219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diesheng/test" />
+    <SUITE FILE_PATH="coverage/untitled2$web_py.coverage" NAME="web.py Coverage Results" MODIFIED="1561104597417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$day4.coverage" NAME="day4 Coverage Results" MODIFIED="1558599731700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python" />
+    <SUITE FILE_PATH="coverage/untitled2$dingdan_test.coverage" NAME="dingdan_test Coverage Results" MODIFIED="1560944803972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$config_5.coverage" NAME="config_5 Coverage Results" MODIFIED="1561190760399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tim/config" />
+    <SUITE FILE_PATH="coverage/untitled2$Unittests_in_biaozhun_test_py.coverage" NAME="Unittests in biaozhun_test.py Coverage Results" MODIFIED="1560944869996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_1/test" />
+    <SUITE FILE_PATH="coverage/untitled2$report.coverage" NAME="report Coverage Results" MODIFIED="1561015450911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$dingdan.coverage" NAME="dingdan Coverage Results" MODIFIED="1561028155746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$peijian.coverage" NAME="peijian Coverage Results" MODIFIED="1560915476229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiekouceshi/test" />
+    <SUITE FILE_PATH="coverage/untitled2$biaozhun.coverage" NAME="biaozhun Coverage Results" MODIFIED="1561031123914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_1/test" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/diesheng.py/data/data_1.txt" />
+    <entry file="file://$PROJECT_DIR$/diesheng.py/test/test_1.py" />
+    <entry file="file://$PROJECT_DIR$/diesheng/log/2019-06-11.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diesheng_2/test/test_1.py" />
+    <entry file="file://$PROJECT_DIR$/diesheng/data/data_1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/学习资料/day1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../untitled/day1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="520" column="21" selection-start-line="520" selection-start-column="21" selection-end-line="520" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/T.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#72#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiekouceshi.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/899230448/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-502">
+          <caret line="731" column="6" selection-start-line="731" selection-start-column="6" selection-end-line="731" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shouji app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiekouceshi/test/dingdna_duqu.py" />
+    <entry file="file://$PROJECT_DIR$/jiekouceshi/test/dingdan.py" />
+    <entry file="file://$PROJECT_DIR$/dingdna_duqu.py" />
+    <entry file="file://$PROJECT_DIR$/Tim/report/a.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiekouceshi/test/peijian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diesheng/config/config_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/python/day1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5580" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiekouceshi/config/Mduqu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tim/config/config_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diesheng/config/config_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#59#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diesheng/config/config_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="e#40#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diesheng/test/test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1440">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mian_123.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-671">
+          <caret line="160" column="34" lean-forward="true" selection-start-line="160" selection-start-column="34" selection-end-line="160" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_1/report/aaa.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_1/confing/shuju_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_1/confing/baogao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#42#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#42#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/duqu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dingdan_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="e#42#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_1/test/biaozhun_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="e#42#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dingdan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="82" selection-start-line="82" selection-end-line="83" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_2/test/dianzi_mingxi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tim/data/data_1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_1/test/biaozhun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tim/data/data2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tim/config/config_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tim/test/web_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="46" column="10" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="10" />
+          <folding>
+            <element signature="e#1100#1133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tim/config/config_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#40#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_ceshi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="e#43#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tim/config/config_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#42#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuyan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#42#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tim/test/test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#44#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tim/config/config_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tim/driver/duanyan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#87#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
